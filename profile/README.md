@@ -12,12 +12,19 @@ Create custom metrics that align with your specific use case, evaluate LLM perfo
 
 ## Tutorials
 
+- [Multimodal Evaluation: Evaluate LLMs Across Text and Vision Tasks](https://mandoline.ai/docs/tutorials/multimodal-evaluation-text-and-vision-tasks)
+- [Model Selection: Comparing LLMs for Creative Tasks](https://mandoline.ai/docs/tutorials/model-selection-compare-llms-for-creative-tasks)
 - [Prompt Engineering: Reduce Unwanted LLM Behaviors](https://mandoline.ai/docs/tutorials/prompt-engineering-reduce-unwanted-llm-behaviors)
-- [Model Selection: Compare LLMs for Creative Tasks](https://mandoline.ai/docs/tutorials/model-selection-compare-llms-for-creative-tasks)
 
 ## Analysis & Insights
 
+- [Multimodal Language Model Evaluation: A Creative Coding Challenge](https://mandoline.ai/blog/multimodal-evals-creative-coding)
+- [Refusal Rates in Open-Source vs. Proprietary Language Models](https://mandoline.ai/blog/open-source-vs-proprietary-llm-refusals)
 - [Comparing Refusal Behavior Across Top Language Models](https://mandoline.ai/blog/comparing-llm-refusal-behavior)
+
+## Leaderboards
+
+- [Refusals](https://mandoline.ai/leaderboards/refusals)
 
 ## SDKs
 
