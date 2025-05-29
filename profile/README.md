@@ -8,6 +8,7 @@ Create custom metrics that align with your specific use case, evaluate LLM perfo
 
 - [Getting Started](https://mandoline.ai/docs/getting-started-with-mandoline)
 - [Core Concepts](https://mandoline.ai/docs/mandoline-core-concepts)
+- [Best LLM For](https://mandoline.ai/docs/best-llm-for)
 - [API Reference](https://mandoline.ai/docs/mandoline-api-reference)
 
 ## Tutorials
