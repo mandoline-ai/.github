@@ -25,6 +25,7 @@ Create custom metrics that align with your specific use case, evaluate LLM perfo
 
 ## Leaderboards
 
+- [Coding](https://mandoline.ai/leaderboards/coding)
 - [Refusals](https://mandoline.ai/leaderboards/refusals)
 
 ## SDKs
